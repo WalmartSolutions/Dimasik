@@ -8,6 +8,8 @@
 # Why?
 Skid + bored.
 
+Noverify required by default
+
 # How To Use
 
 1. Download the client from the [here]().
