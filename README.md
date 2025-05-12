@@ -14,7 +14,7 @@ Noverify required by default
 
 1. Download the client from the [here](https://workupload.com/start/Ym8LRyykEx7).
 2. Extract it into .minecraft/versions.
-4. Start game with [Java 17.0.6](https://download.oracle.com/java/17/archive/jdk-17.0.6_windows-x64_bin.exe).
+3. Start game with [Java 17.0.6](https://download.oracle.com/java/17/archive/jdk-17.0.6_windows-x64_bin.exe).
 
 # Credits
 - ??? - Making this client.
